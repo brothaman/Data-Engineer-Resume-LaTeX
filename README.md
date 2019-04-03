@@ -1,6 +1,6 @@
 # LaTeX resume template
 
-This is the template I use for my own resume. I've compiled it with elements from several templates, including:
+I've Forked this template to produce my own I'll leave most of comment and documents.
 
 1. [Carmine Spagnuolo's Twenty Seconds Curriculum Vitae](https://github.com/spagnuolocarmine/TwentySecondsCurriculumVitae-LaTex)
 2. [Carmine Benedetto's Smart Fancy LaTeX CV](https://github.com/neoben/smart-fancy-latex-cv)
